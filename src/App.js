@@ -7,7 +7,7 @@ import Home from "./Pages/Home";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/my-portfolio">
         <Routes>
           <Route path={"/"} element={<Home />} />
           <Route path={"/project/:slug"} element={<ProjectDetail />} />
