@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.4c6b459b.css",
+    "main.js": "/my-portfolio/static/js/main.9b04e72b.js",
+    "static/js/787.a060cd0b.chunk.js": "/my-portfolio/static/js/787.a060cd0b.chunk.js",
+    "static/media/travel.png": "/my-portfolio/static/media/travel.d4b85fbf3253bc963b40.png",
+    "static/media/travel_mobile.png": "/my-portfolio/static/media/travel_mobile.5ad7b54699ceae1c499d.png",
+    "static/media/travel_tab.png": "/my-portfolio/static/media/travel_tab.2620f6ecedc955994b0b.png",
+    "static/media/shop-tab.png": "/my-portfolio/static/media/shop-tab.067430679800786bd9ac.png",
+    "static/media/shop-mobile.png": "/my-portfolio/static/media/shop-mobile.8d68f7aab1a82907fb84.png",
+    "static/media/shop-desk.png": "/my-portfolio/static/media/shop-desk.10cd31617b6f7899ac10.png",
+    "static/media/travel1.png": "/my-portfolio/static/media/travel1.4a550c21d172327be361.png",
+    "static/media/mading.PNG": "/my-portfolio/static/media/mading.ab6d3722d6c43db2857d.PNG",
+    "static/media/shop1.png": "/my-portfolio/static/media/shop1.b6e84b588b99bc11945a.png",
+    "static/media/laravel.png": "/my-portfolio/static/media/laravel.6b1021552b35f1d1a7d6.png",
+    "static/media/livewire.png": "/my-portfolio/static/media/livewire.64c2b8c2fe87bfe58cae.png",
+    "static/media/porto.jpg": "/my-portfolio/static/media/porto.c323b2bbc981efb35538.jpg",
+    "static/media/js.png": "/my-portfolio/static/media/js.d372f4626c44bd2a979e.png",
+    "static/media/react.svg": "/my-portfolio/static/media/react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/my-portfolio/static/media/github.6d4f8d6e9335a6ad1b70714b46fcc88d.svg",
+    "static/media/instagram.svg": "/my-portfolio/static/media/instagram.849150f40cd137617202962a2e728c4d.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.757885027fecebeb343266fa5ae768cd.svg",
+    "static/media/envelope-regular.svg": "/my-portfolio/static/media/envelope-regular.6c4972d1534f82645bde0042ddf51633.svg",
+    "static/media/map-marker-alt.svg": "/my-portfolio/static/media/map-marker-alt.a3dc442452af613eb9302d4d8a304283.svg",
+    "static/media/file-regular.svg": "/my-portfolio/static/media/file-regular.000d231b86ae11709730f38bb7fad450.svg",
+    "main.4c6b459b.css.map": "/my-portfolio/static/css/main.4c6b459b.css.map",
+    "main.9b04e72b.js.map": "/my-portfolio/static/js/main.9b04e72b.js.map",
+    "787.a060cd0b.chunk.js.map": "/my-portfolio/static/js/787.a060cd0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c6b459b.css",
+    "static/js/main.9b04e72b.js"
+  ]
+}
