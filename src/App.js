@@ -1,5 +1,5 @@
 import "./App.css";
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import ProjectDetail from "./Pages/ProjectDetail";
 import Home from "./Pages/Home";
@@ -7,13 +7,13 @@ import Home from "./Pages/Home";
 function App() {
   return (
     <>
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
           <Route path={"/"} element={<Home />} />
           <Route path={"/project/:slug"} element={<ProjectDetail />} />
           {/* <Route path={"*"} element={<NotFound />} /> */}
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </>
   );
 }
